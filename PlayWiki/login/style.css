@@ -1,0 +1,166 @@
+body{
+
+    background: linear-gradient(to right,rgb(27, 27, 27),rgb(58, 57, 57),rgb(99, 96, 96), rgb(129, 127, 127));
+
+
+}
+.Play{
+
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    font-size: 50px;
+    color: #eee8e8;
+    font-family: arial;
+    border-bottom: solid 1px;
+
+}
+.Play2{
+
+    position: absolute;
+    left: 5%;
+    top: 25%;
+    font-size: 30px;
+    color: #eee8e8;
+    font-family: arial;
+    
+
+}
+.Play3{
+
+    position: absolute;
+    left: 5%;
+    top: 40%;
+    font-size: 30px;
+    color: #eee8e8;
+    font-family: arial;
+    text-decoration: none;
+
+}
+.Content{
+
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    background-color: rgb(151, 149, 149);
+    left: 60%;
+    top: 20%;
+    border: solid 0px;
+    border-radius: 10%;
+
+
+
+}
+.SubContent{
+
+    position: relative;
+    width: 30%;
+    height: 10%;
+    left: 35%;
+
+}
+.Tit{
+
+    font-family: arial;
+    border-bottom: solid 1px;
+    width: 130%;
+    
+
+}
+.inpu{
+
+    position: relative;
+    height: 40%;
+    top: 2%;
+    left: 5%;
+    width: 100%;
+
+
+}
+.email{
+
+    position: relative;
+    height: 25px;
+    width: 80%;
+    right: 3%;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+    padding: 0px 50px 0px 20px;
+
+    
+}
+.pass{
+
+    position: relative;
+    height: 25px;
+    top: 30%;
+    width: 80%;
+    right: 3%;
+    border-radius: 20px;
+    outline: 0;
+    border: 0;
+    padding: 0px 50px 0px 20px;
+
+}
+.senha{
+
+    position: relative;
+    top: 30%;
+
+}
+#eye{
+
+    position: relative;
+    top: 8%;
+    left: 86%;
+    font-size: 20px;
+    cursor: pointer;
+    color: #111010;
+
+}
+.enviar{
+
+    position: relative;
+    border: solid 1px;
+    height: 20%;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+    cursor: pointer;
+    font-family: arial;
+    border-radius: 20px;
+    background-color: rgb(133, 132, 132);
+
+}
+.enviar:hover{
+
+    background: linear-gradient(to right,rgb(27, 27, 27),rgb(58, 57, 57),rgb(99, 96, 96), rgb(129, 127, 127));
+
+}
+
+.contato{
+
+    position: absolute; 
+    width: 100%;
+    height: 20%;
+    background-color: rgb(116, 116, 223);
+    top: 85%;
+    left: 0%;
+
+}.whats{
+
+    position: relative;
+    left: 3%;
+    display: flex;
+    width: 20%;
+    height: 70%;
+
+}.SegWhats{
+
+    position: relative;
+    font-family: arial;
+    font-size: 20px;
+    top: 20%;
+
+}
