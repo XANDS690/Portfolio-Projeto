@@ -1,0 +1,115 @@
+body{
+
+    color: white;
+    font-family: arial;
+    background: linear-gradient(to left, #000000, rgb(25, 25, 37),rgb(18, 18, 27),rgb(0, 0, 0));;
+}
+header{
+
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    border-radius: 20px;
+    height: 20%;
+    width: 100%;
+    right: 0%;
+    font-family: "Oswald";
+
+}.menu{
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    border-radius: 20px;
+    font-family: arial;
+    left: 43%;
+
+}.list{
+    display: flex;
+    gap: 30px;
+    padding: 0px;
+    color: white;
+}
+a{
+
+    text-decoration: none;
+    color: white;
+
+}img{
+
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    border-radius: 500px;
+    border: solid;
+    
+
+}.nome{
+
+    position: absolute;
+    top: 70%;
+    left: 36%;
+    font-family: "Playwrite HU";
+
+}
+.main{
+
+    position: absolute;
+    width: 60%;
+    height: 80%;
+    top: 90%;
+    left: 20%;
+    background-color: rgb(36, 36, 54);
+    border-radius: 50px;
+
+}.sobre{
+
+    position: relative;
+    left: 40%;
+    font-family: arial;
+
+}.text{
+
+    position: relative;
+    font-size: 20px;
+    right: 38%;
+    /*border: solid;*/
+    width: 90%;
+
+}.titu{
+
+    border-bottom: solid;
+    width: 20%;
+
+
+}.Proj{
+
+    position: relative;
+    left: 40%;
+    font-family: arial;
+    font-size: 20px;
+
+}.TitProj{
+
+    border-bottom: solid;
+    width: 23%;
+    font-size: 20px;
+
+}.SegProj{
+
+    position: relative;
+    right: 38%;
+    width: 90%;
+    font-size: 20px;
+
+}.pro1,.pro2{
+
+    font-size: 15px;
+
+
+
+}
