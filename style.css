@@ -113,3 +113,15 @@ a{
 
 
 }
+@media (min-width: 412px) {
+    img{left: 15%;top: 10%;}
+    .nome{top: 45%;left: 28%;}
+    .main{top: 66%;width: 75%;left: 14%;height: 75%;}
+    .sobre{left: 40%;}
+    .text{}
+    .titu{width: 40%;position: relative;right: 10%;}
+    .TitProj{width: 50%;position: relative;right: 15%;}
+    .SegProj{width: 95%;}
+    .pro1,.pro2{font-size: 13px;}
+
+}
